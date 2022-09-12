@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.container{    font-family: 'Montserrat', sans-serif;
+
+    margin: 0;
+    margin-top: 12px;
+    padding: 0;
+    background-color: rgb(215, 220, 224);
+    min-width: 100%;
+    min-height: 300px;
+    color:black;
+}
+.row{
+    min-height: 300px;
+    margin: 0;
+    padding: 0;
+
+}
+.textContent{
+    position: relative;
+    white-space: initial;
+    width: 95%;
+    height: 90%;
+    top:6%;
+    left:3%;
+}
+
+.imgContainer{
+    height: 70%;
+    width: 70%;
+}
+.imgContainer > img{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 50%;
+    top: 20%;
+    position: relative;
+    left: 25%;
+}

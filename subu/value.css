@@ -1,0 +1,18 @@
+
+.MainContent{
+    color: rgb(74, 31, 31);
+    font-size: 34px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;  
+}
+.headContainer{
+    position: relative;
+
+}
+.HeadingValues{
+    position:absolute;
+    top: 25%;
+    left: 12%;
+}
+.HeadingValues > h1{
+
+}
